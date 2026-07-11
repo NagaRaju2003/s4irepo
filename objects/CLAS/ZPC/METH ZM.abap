@@ -1,4 +1,4 @@
   method ZM.
     WRITE 'popop'.
-    WRITE 'pololo'.
+    WRITE 'pololoww'.
   endmethod.
