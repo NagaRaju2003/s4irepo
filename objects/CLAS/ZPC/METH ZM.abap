@@ -1,5 +1,5 @@
   method ZM.
     WRITE 'popop'.
     WRITE 'pololowwqq'.
-    WRITE 'LLL'.
+    WRITE 'LLLss'.
   endmethod.
